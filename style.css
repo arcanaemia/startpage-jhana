@@ -78,6 +78,9 @@ ul.red:hover {
 ul.yellow:hover {
   color: #edd934;
 }
+ul.purple:hover {
+  color: #a374ff;
+}
 
 .nav-title {
   font-size: 22px;
@@ -103,7 +106,7 @@ ul.yellow:hover {
 }
 
 #flair {
-  color: #0972D6;
+  color: #a374ff;
 }
 
 #data-wrapper {
@@ -111,7 +114,7 @@ ul.yellow:hover {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 975px;
+  width: 1075px;
   height: 725px;
 }
 
@@ -126,6 +129,7 @@ ul.yellow:hover {
   height: 725px;
   object-fit: cover;
   border-radius: 10px;
+  padding: 0px 50px;
 }
 
 #codes {
