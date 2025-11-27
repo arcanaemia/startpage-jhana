@@ -1,15 +1,9 @@
-@font-face {
-  font-family: 'Iosevka';
-  src: url('assets/Iosevka.ttf');
-}
-
 body {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
   margin: 0;
-  font-family: 'Iosevka';
   font-size: 20px;
   background-color: #181c22;
   overflow: hidden;
